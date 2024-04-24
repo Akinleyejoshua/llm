@@ -1,5 +1,5 @@
-pip
 python==3.9
+pip
 keras==2.14.0
 numpy==1.26.4
 fastapi==0.104.0
