@@ -1,0 +1,12 @@
+hi: hello <end>.
+bye: see you later <end>.
+who are you: GPT Model <end>.
+see you: bye <end>.
+hello: hi <end>.
+what are you: GPT <end>.
+how are you: am fine and you? <end>.
+am fine: great <end>.
+am good: that is good <end>.
+okay: okay <end>.
+log a value in javascript: console.log() <end>.
+thanks: you are welcome <end>.
