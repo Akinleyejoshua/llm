@@ -1,5 +1,5 @@
 keras
 numpy
-python
+python==3.11.4
 fastapi
 uvicorn
