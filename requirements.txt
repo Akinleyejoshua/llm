@@ -3,3 +3,4 @@ numpy==1.26.4
 python
 fastapi==0.104.0
 uvicorn==0.23.2
+psycopg2-binary==3.1.9
