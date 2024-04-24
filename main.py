@@ -20,3 +20,7 @@ def root(prompt: str):
     return {
         "text": f"{output}"
     }
+
+if __name__ == '__main__':
+    import uvicorn
+    uvicorn.run(app)
