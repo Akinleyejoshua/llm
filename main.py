@@ -10,6 +10,9 @@ app.add_middleware(
     allow_headers=["*"]
 )
 
+@app.get("/"):
+def root():
+    return {"msg": "GPT LLM API"}
 
 @app.get("/api/gpt/prompt")
 def root(prompt: str):
