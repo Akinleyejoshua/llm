@@ -1,5 +1,5 @@
-keras
-numpy
+keras==2.14.0
+numpy==1.26.4
 python==3.11.4
-fastapi
-uvicorn
+fastapi==0.104.0
+uvicorn==0.23.2
