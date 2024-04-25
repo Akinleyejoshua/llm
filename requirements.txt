@@ -1,4 +1,4 @@
-keras==2.14.0
+keras
 numpy==1.26.4
 tensorflow==2.14.0
 fastapi==0.104.0
