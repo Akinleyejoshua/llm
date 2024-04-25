@@ -5,7 +5,7 @@ from prompt import prompt_gpt
 app = FastAPI(debug=True)
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=['http://localhost:3000'],
+    allow_origins=['http://localhost:3000', 'https://ultra-gpt-llm.vercel.app'],
     allow_methods=["*"],
     allow_headers=["*"]
 )
