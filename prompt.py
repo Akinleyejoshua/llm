@@ -1,5 +1,5 @@
 from keras.preprocessing.text import Tokenizer
-from keras_preprocessing.sequence import pad_sequences
+from keras.io.preprocessing.sequence import pad_sequences
 import numpy as np
 from utils.model import load_gpt_model
 
