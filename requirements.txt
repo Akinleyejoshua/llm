@@ -3,4 +3,4 @@ keras
 numpy
 fastapi
 uvicorn
-tensorflow
+tensorflow==2.5
