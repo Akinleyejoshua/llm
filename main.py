@@ -18,7 +18,8 @@ def root():
 def root(prompt: str):
     output = prompt_gpt(prompt)
     return {
-        "text": f"{output}"
+        "text": f"{output}",
+        "prompt": f"{prompt}"
     }
 
 if __name__ == '__main__':
