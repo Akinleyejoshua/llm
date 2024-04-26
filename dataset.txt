@@ -8,6 +8,7 @@ how are you: am fine and you? end.
 am fine: great end.
 am good: that is good end.
 okay: okay end.
+ok: yeah end.
 thanks: you are welcome end.
 am great: that awesome end.
 you are welcome: thank you end.
