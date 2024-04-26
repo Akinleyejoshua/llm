@@ -1,18 +1,15 @@
-hi: hello <end>.
-bye: see you later <end>.
-who are you: GPT Model <end>.
-see you: bye <end>.
-hello: hi <end>.
-what are you: GPT <end>.
-how are you: am fine and you? <end>.
-am fine: great <end>.
-am good: that is good <end>.
-okay: okay <end>.
-log a value in javascript: console.log() <end>.
-thanks: you are welcome <end>.
-are you good: yes i am thanks <end>.
-how are you doing: am doing just great! <end>.
-am great: that awesome <end>.
-you are welcome: thank you <end>.
-yeah: yeah <end>.
-great: yeah <end>.
+hi: hello end.
+bye: see you later end.
+who are you: GPT Model end.
+see you: bye end.
+hello: hi end.
+what are you: GPT end.
+how are you: am fine and you? end.
+am fine: great end.
+am good: that is good end.
+okay: okay end.
+thanks: you are welcome end.
+am great: that awesome end.
+you are welcome: thank you end.
+yeah: yeah end.
+great: yeah end.
