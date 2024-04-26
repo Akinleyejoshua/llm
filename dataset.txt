@@ -16,3 +16,4 @@ am great: that awesome <end>.
 you are welcome: thank you <end>.
 tell me about you: I am a Ultra GPT built by Josh and he is working on me to be able to function more advance so i can serve my purpose to mankind right! <end>.
 yeah: yeah <end>.
+great: yeah <end>.
